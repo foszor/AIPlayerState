@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "AI PlayerState",
+	"Description": "Enables player state for AI controllers",
+	"Category": "AI",
+	"CreatedBy": "Brandon Gandy",
+	"CreatedByURL": "https://github.com/foszor",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "AIPlayerState",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
